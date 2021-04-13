@@ -1,18 +1,39 @@
-write code
-git add . = add changes to local git 
-git commit -m "add change message here"
-git commit 
-git push 
+# Steps to publish and edit React.app
+
+## Basic hit publishing
+
+1. write code
+2. save in editor
+
+### git add . 
+
+add changes to local git 
+
+### git commit -m "add change message here"
+
+### git push 
 
 
-git branching 
 
-git branch (to see branches in git )
-git checkout -b nameofbranch (creates new branch )
-git checkout [nameofbranch ] ( to switch branches)
 
-make changes
-git diff [nameofbranch ] (to see code changes)
+
+## git branching 
+
+### git branch 
+
+to see branches in git 
+
+### git checkout -b [nameofbranch]
+
+creates new branch 
+
+### git checkout [nameofbranch ] 
+
+to switch branches
+
+### git diff [nameofbranch ] 
+
+to see code changes
 
 
 # Getting Started with Create React App
