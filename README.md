@@ -1,3 +1,20 @@
+write code
+git add . = add changes to local git 
+git commit -m "add change message here"
+git commit 
+git push 
+
+
+git branching 
+
+git branch (to see branches in git )
+git checkout -b nameofbranch (creates new branch )
+git checkout [nameofbranch ] ( to switch branches)
+
+make changes
+git diff [nameofbranch ] (to see code changes)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
