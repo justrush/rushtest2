@@ -5,15 +5,25 @@
 1. write code
 2. save in editor
 
-### git add . 
+### git status
 
-add changes to local git 
+to verify changes were reflected, should say:
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+
+### git add <file that was modified>
+
+stages updates to local git
 
 ### git commit -m "add change message here"
 
+commits staged changes to git repository
+
 ### git push 
 
-
+push updates to live gh repository
 
 
 
